@@ -1,6 +1,5 @@
-package com.wellsfargo.counselor.entity;
-
-
+package com.klu.wellsfargo.entities;
+// Implemented by Klu2300033262 for Wells Fargo Task 2
 import jakarta.persistence.*;
 
 @Entity
