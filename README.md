@@ -1,2 +1,6 @@
-# Task 2 Model Answer
-Model answer for task 2 of the Wells Fargo Software Development Forage program
+## Wells Fargo Task 2 – JPA Data Model
+
+Implemented by Klu2300033262.
+
+This project implements the JPA entity data model
+for an investment management system using Spring Boot.
